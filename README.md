@@ -1,7 +1,6 @@
-![image](https://github.com/kyborq/migrator-studio/assets/52314985/f45fe5bb-a38a-4e82-bcab-2b3949cb54a1)
+![image](https://github.com/kyborq/migrator-studio/assets/52314985/b0b8731b-fa7f-4c8c-a58e-62e92ddcd942)
 
 # Migrator STUDIO
 
 Data migration app that can help transfer data from one table to another
 
-![image](https://github.com/kyborq/migrator-studio/assets/52314985/80cac870-3d96-4804-a3ee-fa6e0c1c2f31)
