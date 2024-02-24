@@ -3,3 +3,5 @@
 # Migrator STUDIO
 
 Data migration app that can help transfer data from one table to another
+
+![image](https://github.com/kyborq/migrator-studio/assets/52314985/80cac870-3d96-4804-a3ee-fa6e0c1c2f31)
